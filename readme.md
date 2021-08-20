@@ -4,7 +4,7 @@ ATtiny402 RC-PWM capture using a hardware based solution.
 
 *MCU components overview:*
 
-![mcu_components](.\img\mcu_components.png)
+![mcu_components](./img/mcu_components.png)
 
 
 
