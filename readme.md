@@ -17,6 +17,7 @@ Project is delivered as an **Atmel Studio 7** solution. Base code and initial MC
 ## Main Features
 
 - RC-PWM capture (1000µs to 2000µs range)
+- Precise PWM capture with less than 0.5% measured error
 - 2 seconds PWM signal timeout. It works for both HIGH and LOW input stuck signal.
 - UART output for easy test/debug
 
